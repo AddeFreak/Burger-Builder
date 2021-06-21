@@ -8,8 +8,7 @@
     padding: 10px;
     margin: 10px;
     font-weight: bold;
-  
-}
+  }
 
 .Button:first-of-type {
     margin-left: 0 ;
@@ -28,14 +27,12 @@
 }
 @media (max-width: 320px) {
     .Button:first-of-type {
-        
-    margin-left: 50px;
-    padding-left: 0;
+         margin-left: 50px;
+         padding-left: 0;
 }
 
    .Success {
     color: #5C9210;
-    
     margin-left: 35px;
 }
 
